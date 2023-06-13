@@ -1,3 +1,4 @@
+// Objects
 const User = {
     name: 'Navjot',
     age: 26,

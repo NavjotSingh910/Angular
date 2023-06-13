@@ -1,3 +1,4 @@
+//objects
 // Define a type `User` with specific properties.
 type User = {
     readonly _Id: string; // The `_Id` property is marked as `readonly`, indicating that it cannot be modified once assigned a value.

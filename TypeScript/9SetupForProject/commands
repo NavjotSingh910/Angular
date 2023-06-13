@@ -1,0 +1,9 @@
+1. tsc --init
+2. npm init -y
+3. Go to tsconfig file after creating the dist(index.js) and src folder(index.ts)
+4. find outDir uncomment that and give the path
+5. tsc -w   //watch
+6. npm i lite-server
+7. go to package.json and  under scripts give new name from test and and pass name "lite-server"
+8. remember you add the js that inside the dist folder linked in html file
+9. open new terminal also and tsc -w
